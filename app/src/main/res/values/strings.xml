@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Athan</string>
+    <string name="prayer_times">Prayer Times</string>
+    <string name="detecting_location">Detecting location…</string>
+    <string name="location_permission_needed">Location permission is required for accurate prayer times</string>
+    <string name="fajr">Fajr</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="dhuhr">Dhuhr</string>
+    <string name="asr">Asr</string>
+    <string name="maghrib">Maghrib</string>
+    <string name="isha">Isha</string>
+</resources>

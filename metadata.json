@@ -1,0 +1,6 @@
+{
+  "name": "Athan: Prayer Times & Quran",
+  "description": "Islamic companion featuring accurate prayer times, location detection, Holy Quran reader, Qibla compass, Tasbih counter, and daily Azkar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
